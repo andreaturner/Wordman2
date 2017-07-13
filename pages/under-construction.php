@@ -49,7 +49,13 @@
                     &#119;&#111;&#114;&#100;&#109;&#097;&#110;&#049;&#064;&#104;&#111;&#116;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a>
                     / 253.569.8426 &bull; 253.569.1888
                 </div>
-            
+                <br>
+                <div class="small-header">
+                    Web Developer Paige Israel
+                <div class="smaller-header">
+                    <a href='&#109;ai&#108;&#116;o&#58;&#112;ai&#37;67ea&#37;69s%72ael&#64;%&#54;7mai&#108;&#46;c&#111;&#109;'>paigeaisr&#97;el&#64;gma&#105;l&#46;c&#111;&#109;</a>
+                </div>
+                            
             </div>  <!-- end content div -->
             
         <div class="footer">

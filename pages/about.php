@@ -22,12 +22,11 @@
             </div>
             
             <div class="bio-para">
-                <span class="large">I</span> have been writing stories since grade school. A few of my books were even confiscated in high school with a warning and a half smile;
-                I suppose I should have had the decency to blush.
+                <span class="large">I</span> have been writing stories since grade school. A few of my books were even confiscated in high school with a warning and a half smile; I suppose I should have had the decency to blush.
             </div>
             
             <div class="bio-para">
-                <span class="large">D</span>uring that time I discovered another outlet that intrigued me. I studied the words and music of the folk & rock genre. I taught
+                <span class="large">D</span>uring that time I discovered another outlet that intrigued me. I studied the words and music of the folk &amp; rock genre. I taught
                 myself guitar by removing all the strings and putting them back on, two at a time. Discerning which combination of fret positions sounded
                 pleasant, I would then add two more strings. When done, I had finally formed chords; no clue as to what they were called until I started interacting
                 with other musicians. From then on I was writing my own original music. It was a rewarding time when people cared and listened. I played local bars and made a fair living.

@@ -13,7 +13,12 @@
         <link rel="stylesheet" type="text/css" href="/styles/MyFontsWebfontsKit.css">
         <link rel="stylesheet" href="styles/styles.css" type="text/css" />
         <link rel="stylesheet" href="styles/styles1.css" type="text/css" />
+        <link rel="stylesheet" href="styles/styles3.css" type="text/css">
 		<link type="text/css"  href="styles/simplePagination.css" rel="stylesheet"/>
+
+        <!-- [if IE] -->
+            <link rel="stylesheet" type="text/css" href="all-ie-only.css" />
+        <!-- [end if IE] -->
     </head>
     <body>
         <div class="wrapper">

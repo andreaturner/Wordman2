@@ -10,7 +10,7 @@
 								$authorized = '-fpaigeaisrael@gmail.com';
 								require 'process_mail.php';
 									 
-								header('Location: thank-you.php');
+								header('Location: contact3.php');
 								exit;
 								
 						  }

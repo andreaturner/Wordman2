@@ -44,7 +44,7 @@
         </div>
 		  
 		  <div class="smallest-header">
-				<a href="form.php" target="_blank">Please sign my Guest Book.</a>
+				<a href="form.php" target="_blank">Please sign the Guest Book.</a>
 		  </div>
 			
 	 </div>  <!-- [end content div] -->

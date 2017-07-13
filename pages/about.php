@@ -1,5 +1,5 @@
 <?php
-    $page_title = 'About';
+    $page_title = 'Biography &amp; Credits';
     include ('../shared/header.html');
 ?>    
     <div class="content">

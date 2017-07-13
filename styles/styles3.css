@@ -1,0 +1,32 @@
+/*Font classes*/
+
+.italic {
+    font-style: italic;
+}
+
+.vivaldi {
+    font-family: 'VivaldiD';
+}
+
+.small {
+    font-size: small;
+}
+
+.medium {
+    font-size: 175%;
+}
+
+.large-120 {
+    font-size: 120%;
+    font-weight: 700;
+}
+
+.large {
+    font-size: 130%;
+}
+
+.larger {
+    font-size: 200%;
+}
+
+/*End font classes*/

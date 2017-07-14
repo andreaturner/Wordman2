@@ -99,14 +99,13 @@ a:hover {
     margin: .1% 0 0 0;
 }
 
-/*.eric-koch {
+.eric-koch {
     font-size: 225%;
     font-weight: normal;
     text-align: center;
-    font-family: 'VivaldiD';
+    font-family: 'vivaldi';
     margin-bottom: .8%; 
-    border: 3px solid red;
-}*/
+}
 
 .credit {
     font-family: "vivaldi";

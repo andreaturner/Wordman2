@@ -1,3 +1,47 @@
+/*Main page styles*/
+
+html, body {
+    font-size: larger;
+    color: #000;
+    font-family:'Lora', serif;
+    /*background-image: url("../images/brushedsteel5.jpg");*/
+    background-color: #eee;
+    /*background-repeat: repeat-y;*/
+    margin:0;
+    padding:0;
+    height:95%;
+}
+
+.main {
+    width: auto;
+    margin: 0 auto;
+    display: -webkit-flex; /* Safari */
+    -webkit-align-items: center; /* Safari 7.0+ */
+    display: flex;
+    align-items: center;
+}
+
+.wrapper {
+    position: relative;
+    min-height: 100%;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    overflow: auto;
+    /*position: relative;
+    height: 100%;*/
+}
+
+.content {
+   overflow: auto;
+   padding-bottom: 20px;
+}
+
+/*End main page styles*/
+
 /*Font classes*/
 
 .italic {
@@ -31,3 +75,42 @@
 
 /*End font classes*/
 
+/*Link styles*/
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #9F000F;
+    text-decoration: underline;
+}
+
+/*End link styles
+
+/*Styling classes*/
+
+.logo {
+    /*float: left;*/
+    position: absolute;
+    left: auto;
+    top: auto;
+    padding-left: 5%;
+    margin: .1% 0 0 0;
+}
+
+/*.eric-koch {
+    font-size: 225%;
+    font-weight: normal;
+    text-align: center;
+    font-family: 'VivaldiD';
+    margin-bottom: .8%; 
+    border: 3px solid red;
+}*/
+
+.credit {
+    font-family: "vivaldi";
+    font-size: large;
+    text-align: right;
+    padding-right: 15%;
+}

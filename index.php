@@ -93,7 +93,7 @@
             
            </section>
             
-            <div class="credit">
+            <div class="credit-bottom-right">
                     <span>E</span>ric <span>K</span>och
             </div>  <!-- [closes credit div] -->
         </div>  <!-- [closes content div] -->

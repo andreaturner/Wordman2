@@ -90,6 +90,14 @@ a:hover {
 
 /*Styling classes*/
 
+.eric-koch {
+    font-size: 225%;
+    font-weight: normal;
+    text-align: center;
+    font-family: 'vivaldi';
+    margin-bottom: .8%; 
+}
+
 .logo {
     /*float: left;*/
     position: absolute;
@@ -99,17 +107,20 @@ a:hover {
     margin: .1% 0 0 0;
 }
 
-.eric-koch {
-    font-size: 225%;
-    font-weight: normal;
-    text-align: center;
-    font-family: 'vivaldi';
-    margin-bottom: .8%; 
+.contact-text {
+    font-family:'Lora', serif;
+    font-size: large;
+    width: 75%;
+    text-align: left;
+    float: left;
+    padding-top: 1%;
+    padding-left: 10%;
+    text-indent: 2.5%;
 }
 
-.credit {
+.credit-bottom-right {
     font-family: "vivaldi";
     font-size: large;
     text-align: right;
-    padding-right: 10`%;
+    padding-right: 16%;
 }

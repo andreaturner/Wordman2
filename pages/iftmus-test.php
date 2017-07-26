@@ -15,11 +15,6 @@
             <div class="header-excerpts">
                 The Three World Saga
             </div>
-
-            <div class="prologue-text">
-                The three worlds, Iftmus, Axtoph and Terra are touched by an evil dating back to creation. Now that evil starts to manifest 
-                itself through its chosen pawns. 
-            </div>
             
         <div id="glossary">
             
@@ -1021,10 +1016,10 @@
 						  </div>
 					 </div>  <!-- end Maps div -->
                 
-            <!-- <h3 style="font-weight: bold;">Prologue</h3> -->
+            <h3 style="font-weight: bold;">Prologue</h3>
 				<div>  <!-- start Prologues div -->
-                <div id="content">
-                <!--  Section 1 -->
+                    <div class="content">
+                    <!--  Section 1 -->
                     <div class="keep-it-together">  <!-- start keep-it-together div Section 1 -->
 								<a name="mist"></a>
                         <div class="prologue-center-title">
@@ -1361,11 +1356,9 @@
                         
                         <!-- end Section 4 -->
                     </div>  <!-- end keep-it-together Section 4 -->
-                    
-				</div>  <!-- end Prologues div -->
-            </div>    
-        </div> <!-- end content class div -->
-		  </div> <!-- end content id div -->
+				</div> <!-- end content class div --> 
+            </div> <!-- end Prologues div -->  
+		</div> <!-- end content id div -->
 		  
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>

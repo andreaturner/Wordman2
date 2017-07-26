@@ -42,6 +42,7 @@ html, body {
 
 /*End main page styles*/
 
+
 /*Font classes*/
 
 .italic {
@@ -49,7 +50,7 @@ html, body {
 }
 
 .vivaldi {
-    font-family: 'VivaldiD';
+    font-family: 'vivaldi';
 }
 
 .small {
@@ -86,9 +87,29 @@ a:hover {
     text-decoration: underline;
 }
 
-/*End link styles
+/*End link styles*/
+
+
+/*Header classes*/
+
+.header-excerpts {
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'lucida calligraphy',arial,'sans serif';
+    margin: 1% 0;
+}
+
+/*End header classes*/
 
 /*Styling classes*/
+
+.credit-bottom-right {
+    font-family: 'vivaldi';
+    font-size: large;
+    text-align: right;
+    padding-right: 16%;
+}
 
 .eric-koch {
     font-size: 225%;
@@ -118,9 +139,49 @@ a:hover {
     text-indent: 2.5%;
 }
 
-.credit-bottom-right {
-    font-family: "vivaldi";
-    font-size: large;
+/*End styling classes*/
+
+/*Prologue classes*/
+
+.tagline-right-prologue {
     text-align: right;
-    padding-right: 16%;
+    margin-right: 30%;
+    font-style: italic;
+    font-size: small;
 }
+
+.prologue-psi-chapter {
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 1.5%;
+}
+
+.prologue-text {
+    font-family: 'Lora', serif;
+    font-size: large;
+    overflow: visible;
+    padding-top: 0.6%;
+    margin: 0 auto;
+    text-indent: 2.5%;
+    width: 80%;
+}
+
+.prologue-text .pt-oet {
+    font-family: 'Old English Text MT';
+    font-size: 130%;
+}
+
+.prologue-text-center-italic {
+    font-family: 'Lora', serif;
+    font-style: italic;
+    font-size: large;
+    overflow: visible;
+    padding-top: 0.5%;
+    margin: 0 auto;
+    text-indent: 3%;
+    text-align: justify;
+    width: 40%;
+}
+
+/*End prologue classes*/

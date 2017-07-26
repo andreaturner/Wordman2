@@ -1,15 +1,15 @@
 <?php
-    $page_title = 'Iftmus Glossary';
+    $page_title = 'Iftmus Prologue';
     include ('../shared/header.html');
 ?> 
     <div class="content">
 
         <div class="header">
-            <a href="iftmus-prologue.php"><span>I</span>ftmus</a>
+            <a href="iftmus-chpt-1.php"><span>I</span>ftmus</a>
         </div>
 
         <div class="series-pic-center">
-            <a href="iftmus-prologue.php"><img src="../images/iftmus-cover-934x700.jpg" width="934" height="700" alt="Iftmus image"></a>
+            <a href="iftmus-chpt-1.php"><img src="../images/iftmus-cover-934x700.jpg" width="934" height="700" alt="Iftmus image"></a>
         </div>
                           
             <div class="header-excerpts">

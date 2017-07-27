@@ -1240,8 +1240,8 @@
 								</div>
 								
 								<div class="prologue-psi-chapter">
-                            &#936;
-                        </div>
+                                    &#936;
+                                </div>
                         
                         <div class="prologue-text">
                             <span class="pt-oet">A</span>s quiet as night, the Babylonian troops efficiently entered the small village of Natora, and before anyone could raise an alarm they set fire to most every structure. Panicked, dazed people tried to rush out to escape from their
@@ -1359,7 +1359,7 @@
 				</div> <!-- end content class div --> 
             </div> <!-- end Prologues div -->  
 		</div> <!-- end content id div -->
-		  
+		</div> 
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 

@@ -3,7 +3,7 @@
     include ('../shared/header.html');
 ?>    
     <div class="content">
-		  <div class="header-novel">
+		  <div class="header-center-bold">
 				<span>B</span>iography
 		  </div>
         <div class="series-pic-about-top">
@@ -60,8 +60,12 @@
 		</div>  <!-- [end content div] -->
 		
 		<!-- [start credits] -->
-	    <div class="header-credit">
+	    <div class="header-center-bold">
 			<span>P</span>ublished <span>W</span>orks
+        </div>
+
+        <div class="small italic center">All works &#169; <span class="vivaldi large">E</span><span class="vivaldi">ric</span> <span class="vivaldi large">K</span>
+            <span class="vivaldi">och</span> / Wordman Enterprise / All Rights Reserved
         </div>
 
         

@@ -166,6 +166,11 @@ a:hover {
     text-indent: 2.5%;
 }
 
+.contact-text span {
+    font-style: italic;
+    font-size: 130%;
+}
+
 .published-works {
     text-align: left;
     padding-left: 21.5%;

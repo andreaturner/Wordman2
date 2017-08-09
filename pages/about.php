@@ -59,9 +59,11 @@
 		  </div>
 		</div>  <!-- [end content div] -->
 		
-		  <!-- [start credits] -->
-		  <div class="header-credit">
-				<span>P</span>ublished <span>W</span>orks
+		<!-- [start credits] -->
+	    <div class="header-credit">
+			<span>P</span>ublished <span>W</span>orks
+        </div>
+
         
     
    

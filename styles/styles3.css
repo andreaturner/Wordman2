@@ -1,4 +1,4 @@
-Main page styles*/
+/*Main page styles*/
 
 html, body {
     font-size: larger;
@@ -86,13 +86,42 @@ html, body {
     text-align: right;
 }
 
-.copyright-published {
-    text-align: right;
-    padding-right: 39%;
+/*End font and alignment classes*/
+
+/* Biography & Published Works page styles */
+
+
+.bio {
+    font-family:'Lora', serif;
+    font-size: large;
+    width: 58%;
+    text-align: left;
+    float: left;
+    padding-left: 30px;
+    text-indent: 2.5%
 }
 
+.margin-bottom-1% {
+    margin-bottom: 1%;
+}
 
-/*End font and alignment classes*/
+.margin-bottom-1% span{
+    font-size: large;
+}
+
+.published-works {
+    text-align: left;
+    padding-left: 21.5%;
+    width: 58%;
+}
+
+.published-works dd {
+    font-size: 80%;
+}
+
+/* End Biography & Published Works page styles */
+
+
 
 /*Link styles*/
 
@@ -129,6 +158,11 @@ a:hover {
 /*End header classes*/
 
 /*Styling classes*/
+
+.copyright-published {
+    text-align: right;
+    padding-right: 39%;
+}
 
 .credit-bottom-right {
     font-family: 'vivaldi';
@@ -171,15 +205,7 @@ a:hover {
     font-size: 130%;
 }
 
-.published-works {
-    text-align: left;
-    padding-left: 21.5%;
-    width: 58%;
-}
 
-.published-works dd {
-    font-size: 80%;
-}
 
 /*End styling classes*/
 

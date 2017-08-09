@@ -560,20 +560,19 @@ a:hover {
 }
 
 /* about */
-.bio {
+/*.bio {
     font-family:'Lora', serif;
     font-size: large;
     width: 58%;
-    /*margin: 0 auto;*/
     text-align: left;
     float: left;
     padding-left: 30px;
     text-indent: 2.5%
-}
+}*/
 
-.bio-para {
+/*.bio-para {
     margin-bottom: 10px;
-}
+}*/
 
 .divider-line {
    width: 150px;

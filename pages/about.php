@@ -64,9 +64,14 @@
 			<span>P</span>ublished <span>W</span>orks
         </div>
 
-        <div class="small italic center">All works &#169; <span class="vivaldi large">E</span><span class="vivaldi">ric</span> <span class="vivaldi large">K</span>
+        <div class="small italic copyright-published">All works &#169; <span class="vivaldi large">E</span><span class="vivaldi">ric</span> <span class="vivaldi large">K</span>
             <span class="vivaldi">och</span> / Wordman Enterprise / All Rights Reserved
         </div>
+
+        <dl>
+            <dt>&#8220;High County Fair&#8221; <span class="small">&#169;, 1973</span></dt>
+                <dd>Song placed &#35;2 in the CBS Television National Talent Search.</dd>
+        </dl>
 
         
     

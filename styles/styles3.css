@@ -86,6 +86,11 @@ html, body {
     text-align: right;
 }
 
+.copyright-published {
+    text-align: right;
+    padding-right: 39%;
+}
+
 
 /*End font and alignment classes*/
 

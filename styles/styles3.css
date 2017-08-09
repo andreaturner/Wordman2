@@ -58,7 +58,7 @@ html, body {
 }
 
 .medium {
-    font-size: 175%;
+    font-size: medium;
 }
 
 .large-120 {
@@ -163,6 +163,16 @@ a:hover {
     padding-top: 1%;
     padding-left: 10%;
     text-indent: 2.5%;
+}
+
+.published-works {
+    text-align: left;
+    padding-left: 21.5%;
+    width: 58%;
+}
+
+.published-works dd {
+    font-size: 80%;
 }
 
 /*End styling classes*/

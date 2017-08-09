@@ -1,4 +1,4 @@
-/*Main page styles*/
+Main page styles*/
 
 html, body {
     font-size: larger;
@@ -137,6 +137,7 @@ a:hover {
     padding-right: 16%;
 }
 
+/*eric's name on index.php*/
 .eric-koch {
     font-size: 225%;
     font-weight: normal;
@@ -220,4 +221,4 @@ a:hover {
     width: 40%;
 }
 
-/*End prologue classes*/
+/*End prologue classes

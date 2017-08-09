@@ -77,19 +77,15 @@
                     the pursuit of more insight and self-growth. Why we fight it so hard is a different issue for another time. Still, one truth remains; when
                     we stop engaging and questioning ourselves we are more often destined to wither and die.
                     </span>
-                </div>
-                
-                <div class="contact-text">
+                <br>
                     <span class="italic"><span class="large">C</span>onsider us blessed to be part of an age where information is at our fingertips.
                     Consider us cursed when misinformation is equally as accessible.
                     </span>
-                </div>
-                
-                <div class="contact-text">
+                <br>
                     <span class="italic"><span class="large">W</span>hether we use or abuse our resources is still a question in the wind. We all need to change,
                     we all need to adapt, as desperately as any species that is so endangered.&rdquo;
                     </span>
-                </div>
+                <br>
             
            </section>
             

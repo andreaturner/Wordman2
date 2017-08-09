@@ -398,20 +398,20 @@ a:hover {
 
 /* span tags */
 
-.italic {
+/*.italic {
     font-style: italic;
 }
 
 .vivaldi {
     font-family: 'VivaldiD';
-}
+}*/
 
 .large-120 {
     font-size: 120%;
     font-weight: 700;
 }
 
-.large {
+/*.large {
     font-size: 130%;
 }
 
@@ -425,7 +425,7 @@ a:hover {
 
 .small {
     font-size: small;
-}
+}*/
 
 /* end span tags */
 /* end pages style */

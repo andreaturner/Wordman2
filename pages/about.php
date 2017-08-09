@@ -61,8 +61,7 @@
 		
 		  <!-- [start credits] -->
 		  <div class="header-credit">
-				<span>C</span>redits
-		  </div>
+				<span>P</span>ublished <span>W</span>orks
         
     
    

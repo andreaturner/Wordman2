@@ -56,7 +56,7 @@
 								<li>/</li>
 								<li><a href="pages/music-albums-performances.php" target="_blank">Music, Albums &amp; Performances</a></li>
 								<li>/</li>
-								<li><a href="pages/about.php" target="_blank">Biography &amp; Credits</a></li>
+								<li><a href="/pages/about.php" target="_blank">Biography &amp; Published Works</a></li>
 								<li>/</li>
 								<li><a href="pages/contact.php" target="_blank">Guest Book</a></li>                
                     </ul>

@@ -43,23 +43,22 @@
                 <nav>
                     <ul id="menu">
                         <li><a href="#" target="_blank">Home</a></li>
-                        <li>
-								<li><a href="pages/novels.php" target="_blank">Novels</a></li>
-								<li>/</li>
-								<li><a href="pages/children.php" target="_blank">Children's Books</a></li>
-								<li>/</li>
-								<li><a href="pages/short-stories.php" target="_blank">Short Stories</a></li>
-								<li>/</li>
-								<li><a href="pages/essays-collections.php" target="_blank">Essays &amp; Collections</a></li>
-								<li>/</li>
-								<li><a href="pages/plays-screenplays.php" target="_blank">Plays &amp; Screenplays</a></li>
-								<li>/</li>
-								<li><a href="pages/music-albums-performances.php" target="_blank">Music, Albums &amp; Performances</a></li>
-								<li>/</li>
-								<li><a href="/pages/about.php" target="_blank">Biography &amp; Published Works</a></li>
-								<li>/</li>
-								<li><a href="pages/contact.php" target="_blank">Guest Book</a></li>  
-                        </li>              
+                        <li>/</li>
+                        <li><a href="pages/novels.php" target="_blank">Novels</a></li>
+						<li>/</li>
+						<li><a href="pages/children.php" target="_blank">Children's Books</a></li>
+						<li>/</li>
+						<li><a href="pages/short-stories.php" target="_blank">Short Stories</a></li>
+						<li>/</li>
+						<li><a href="pages/essays-collections.php" target="_blank">Essays &amp; Collections</a></li>
+						<li>/</li>
+						<li><a href="pages/plays-screenplays.php" target="_blank">Plays &amp; Screenplays</a></li>
+						<li>/</li>
+						<li><a href="pages/music-albums-performances.php" target="_blank">Music, Albums &amp; Performances</a></li>
+						<li>/</li>
+						<li><a href="pages/about.php" target="_blank">Biography &amp; Published Works</a></li>
+						<li>/</li>
+						<li><a href="pages/contact.php" target="_blank">Guest Book</a></li>  
                     </ul>
                 </nav>
             </div>

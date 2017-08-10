@@ -107,7 +107,7 @@
                     <dd>&#8220;Cause It Ain&#39;t No Fun&#8221;</dd>
                     <dd>&#8220;Why Not&#8221;</dd>
                     <dd>&#8220;Sweeter than Candy &#40;Second To None&#41;&#8221;</dd>
-                <dt>You&#39;re Am Amimal  &#169;&#44; 2000&#46;</dt>
+                <dt>You&#39;re An Animal  &#169;&#44; 2000&#46;</dt>
                     <dd>Theme Song for the television show &#8220;Animal Action&#8221; on The Animal Planet&#44; aired on the Fox Network for Kids&#46;
             </dl>
         </div>

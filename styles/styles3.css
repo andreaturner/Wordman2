@@ -93,7 +93,6 @@ html, body {
 
 /* Biography & Published Works page styles */
 
-
 .bio {
     font-family:'Lora', serif;
     font-size: large;
@@ -101,24 +100,20 @@ html, body {
     text-align: left;
     float: left;
     padding-left: 2%;
-    /*text-indent: 2.5%*/
+    padding-top: 2%;
 }
 
-.margin-bottom-1% {
+/*div with bottom margin of 1%*/
+.margin-bottom-1 {
     margin-bottom: 1%;
-    /*float: left;*/
-    margin-left: 2%;
-    margin-top:  5%;*/       
-
+    float: left;
+    margin-top:  .4%;   
 }
 
-.margin-bottom-1% span {
-    font-size: 130%;
+.margin-bottom-1 span {
+    font-size: 110%;
     text-indent: 2.5%;
     display: inline-block;
-    float: left;
-    /*margin-left: 2%;
-    margin-top:  5%;*/
 }
 
 .published-works {
@@ -133,7 +128,25 @@ html, body {
 
 /* End Biography & Published Works page styles */
 
+/*Start Index page styles*/
 
+.contact-text {
+    font-family:'Lora', serif;
+    font-size: large;
+    width: 75%;
+    text-align: left;
+    float: left;
+    padding-top: 1%;
+    padding-left: 10%;
+    text-indent: 2.5%;
+}
+
+.contact-text span {
+    font-style: italic;
+    font-size: 130%;
+}
+
+/*End Index page styles*/
 
 /*Link styles*/
 
@@ -164,12 +177,28 @@ a:hover {
     font-weight: bold;
     text-align: center;
     font-family: "lucida calligraphy",arial,'sans serif';
-    margin-bottom: 10px;
+    margin-top: 1.2%;
 }
 
 /*End header classes*/
 
 /*Styling classes*/
+
+.contact-text {
+    font-family:'Lora', serif;
+    font-size: large;
+    width: 75%;
+    text-align: left;
+    float: left;
+    padding-top: 1%;
+    padding-left: 10%;
+    text-indent: 2.5%;
+}
+
+.contact-text span {
+    font-style: italic;
+    font-size: 130%;
+}
 
 .copyright-published {
     text-align: right;
@@ -200,23 +229,6 @@ a:hover {
     padding-left: 5%;
     margin: .1% 0 0 0;
 }
-
-.contact-text {
-    font-family:'Lora', serif;
-    font-size: large;
-    width: 75%;
-    text-align: left;
-    float: left;
-    padding-top: 1%;
-    padding-left: 10%;
-    text-indent: 2.5%;
-}
-
-.contact-text span {
-    font-style: italic;
-    font-size: 130%;
-}
-
 
 
 /*End styling classes*/

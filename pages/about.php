@@ -38,7 +38,7 @@
             </div>
 
             <div class="margin-bottom-1">
-                <span class="large">I</span> continued writing stories for years, I treated it as an ongoing exercise; something to do when I wasn&#39;t creating or performing my music. I am now winding down the traveling/performing aspect of music while recording my own songs in my home studio; smooth jazz instrumental versions of my varied compositions. I've since redirected my focus on my writings and my passion for photography.
+                <span>I</span> continued writing stories for years, I treated it as an ongoing exercise; something to do when I wasn&#39;t creating or performing my music. I am now winding down the traveling/performing aspect of music while recording my own songs in my home studio; smooth jazz instrumental versions of my varied compositions. I've since redirected my focus on my writings and my passion for photography.
             </div>
 
             <div class="margin-bottom-1">
@@ -67,17 +67,50 @@
 
         <div class="published-works">
             <dl>
-                <dt>&#8220;High County Fair&#8221; &#169;, 1973
-                    <dd>Song placed &#35;2 in the CBS Television National Talent Search.
-                <dt>Founded &#8220;The Pacific Northwest Songwriter's Showcase,&#8221; 1974 &#8211; 1976.
-                    <dd>Created and wrote the definitions and by-laws for my non-profit Organization to promote aspiring songwriters before I turned it over to its members.
+                <dt>&#8220;High County Fair&#8221; &#169;&#44; 1973&#46;</dt>
+                    <dd>Song placed &#35;2 in the CBS Television National Talent Search&#46;</dd>
+                <dt>Founded &#8220;The Pacific Northwest Songwriter's Showcase,&#8221; 1974 &#8211; 1976&#46;</dt>
+                    <dd>Created and wrote the definitions and by-laws for my non-profit Organization to promote aspiring songwriters before I turned it over to its members.</dd>
+                <dt>&#8220;The Tree Song&#8221; &#169;&#44; 1975&#46;</dt>
+                    <dd>Song placed Top 10&#37; in the SRS International Songwriting Contest, allowing me to book my live performances through the William Morris Agency.</dd>
+                <dt>And There Isn&#39;t Any Magic Here Today &#169;, 1977&#46; <span>Album</span></dt>
+                    <dd>&#8220;Keep On Dancin&#39;&#8221;</dd>
+                    <dd>&#8220;I Never Really Cared Too Much &#40;For Being Single&#41;&#8221;</dd>
+                    <dd>&#8220;Love Hurts&#8221;</dd>
+                    <dd>&#8220;The Last Day of Harvest&#8221;</dd>
+                    <dd>&#8220;Daniel Ballard&#8221;</dd>
+                    <dd>&#8220;The Best of Two Worlds&#8221;</dd>
+                    <dd>&#8220;If I Could Make One Wish&#8221;</dd>
+                    <dd>&#8220;Prayer&#8221;</dd>
+                    <dd>&#8220;And There Isn&#39;t Any Magic Here Today&#8221;</dd>
+                    <dd>&#8220;The Savior&#8221;</dd>
+                <dt>BMI Cash Advance, &#8220;Songwriting Excellence Award&#8221; &#169;&#44; 1980&#46;</dt>
+                    <dd>&#8220;It Ain&#39;t Fair&#8221;</dd>
+                    <dd>&#8220;Babysittin&#39; Lover&#8221;</dd>
+                    <dd>&#8220;A Question of Love&#8221;</dd>
+                    <dd>&#8220;Castles in the Sand&#8221;</dd>
+                    <dd>&#8220;Love Has Always Been That Way&#8221;</dd>
+                <dt>Eulogy through my Grandfather  &#169;&#44; 1982&#46; <span>Essay</span></dt>
+                    <dd>I was asked by Hospice, pastors and a funeral facility for permission to use, read or reprint it&#46;</dd>
+                <dt>&#8220;Shut Up &#38; Dance&#8221; &#169;&#44; 1984&#46;</dt>
+                    <dd>Song written for the Pizza Time Chain and its monthly teen dances&#46;</dd>
+                <dt>&#8220;Stand Up and Take on Tomorrow&#8221; &#169;&#44; 1986&#46;</dt>
+                    <dd>Song written for The New Jersey Center for Cancer Survivors&#46;</dd>
+                <dt>Cold Iron  &#169;&#44; 1996&#46;</dt>
+                    <dd>Poem written for Sundown M Ranch Rehabilitation Center and its counselors&#46;</dd>
+                <dt>Even When The Angels Dream  &#169;&#44; 1998&#46;</dt>
+                    <dd>Poem published in the book &#8220;After The First Snowfall&#8221;
+                <dt>The Saga of Sir Choc&#45;o&#45;lot &#169;&#44; 1999&#46;</dt>
+                    <dd>Musical Play written for the Seattle Chocolate Festival&#59; to raise money for the Nortwest Harvest Food Bank&#46;</dd>
+                    <dd><span><strong>Songs&#58;</strong></span></dd>
+                    <dd>&#8220;If You Can&#39;t Believe In Me&#8221;</dd>
+                    <dd>&#8220;Cause It Ain&#39;t No Fun&#8221;</dd>
+                    <dd>&#8220;Why Not&#8221;</dd>
+                    <dd>&#8220;Sweeter than Candy &#40;Second To None&#41;&#8221;</dd>
+                <dt>You&#39;re Am Amimal  &#169;&#44; 2000&#46;</dt>
+                    <dd>Theme Song for the television show &#8220;Animal Action&#8221; on The Animal Planet&#44; aired on the Fox Network for Kids&#46;
             </dl>
         </div>
-
-        
-    
-   
-    
        
 <?php
     include ('../shared/footer.html');            

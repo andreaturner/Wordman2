@@ -126,6 +126,10 @@ html, body {
     font-size: 80%;
 }
 
+.published-works span {
+    font-style: italic;
+}
+
 /* End Biography & Published Works page styles */
 
 /*Start Index page styles*/

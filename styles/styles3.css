@@ -101,16 +101,24 @@ html, body {
     text-align: left;
     float: left;
     padding-left: 2%;
-    text-indent: 2.5%
+    /*text-indent: 2.5%*/
 }
 
 .margin-bottom-1% {
     margin-bottom: 1%;
+    /*float: left;*/
+    margin-left: 2%;
+    margin-top:  5%;*/       
+
 }
 
 .margin-bottom-1% span {
     font-size: 130%;
     text-indent: 2.5%;
+    display: inline-block;
+    float: left;
+    /*margin-left: 2%;
+    margin-top:  5%;*/
 }
 
 .published-works {

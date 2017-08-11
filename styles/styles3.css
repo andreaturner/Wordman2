@@ -224,6 +224,15 @@ a:hover {
     margin-bottom: .8%; 
 }
 
+.footer {
+    font-size: medium;
+    height: 1%;
+    position: absolute;
+    text-align: right;
+    /*text-align: center;*/
+    bottom: 2%;
+}
+
 .logo {
     /*float: left;*/
     position: absolute;

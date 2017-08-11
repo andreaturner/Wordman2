@@ -11,6 +11,7 @@
         <link href='http://fonts.googleapis.com/css?family=Lora:400,700' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" type="text/css" href="../styles/MyFontsWebfontsKit.css">
         <link rel="stylesheet" href="../styles/styles.css" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" href="../styles/styles3.css" rel="stylesheet" type="text/css" />
     </head>
     
     <body>
@@ -59,7 +60,7 @@
             </div>  <!-- end content div -->
             
         <div class="footer">
-            Copyright &copy; 2016 by <span class="vivaldi"><span class="large">E</span>ric <span class="large">K</span>och</span>
+            Copyright &copy; 2017 by <span class="vivaldi"><span class="large">E</span>ric <span class="large">K</span>och</span>
         </div>
         
         </div> <!-- closes wrapper -->

@@ -599,13 +599,13 @@ a:hover {
 /* end margins */
 
 /* footer */
-.footer {
+/*.footer {
     font-size: medium;
     height: 1%;
     position: absolute;
     text-align: center;
     bottom: 2%;
-}
+}*/
 
 /*.footer span {
     font-size: 130%;

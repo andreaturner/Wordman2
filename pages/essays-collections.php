@@ -9,7 +9,7 @@
             <div class="header-center-bold">
                 <span>E</span>ssays &#38; <span>C</span>ollections
             </div>
-            <div class="series-pic-books-novels">
+            <div class="center">
                 <img src="../images/book-tree-enter-647x800.jpg" width="647" height="800" alt="Essays and Collections Image" />
             </div>
             

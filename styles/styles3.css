@@ -85,6 +85,11 @@ html, body {
     text-align: center;
 }
 
+.center img {
+    border: double #000;
+    padding: 5px;  
+}
+
 .left {
     text-align: left;
 }
@@ -175,12 +180,6 @@ a:hover {
 
 /*Styling classes*/
 
-.page-wdth100pct {
-    width: 100%;
-    padding-top: 20px;
-    /*padding-left: 230px;*/
-}
-
 .contact-text {
     font-family:'Lora', serif;
     font-size: large;
@@ -226,6 +225,11 @@ a:hover {
     bottom: 2%;
 }
 
+.img {
+    border: double #000;
+    padding: 5px;  
+}
+
 .keep-it-together {
     overflow: auto;
 }
@@ -243,6 +247,11 @@ a:hover {
     overflow: auto;
 }
 
+.page-wdth100pct {
+    width: 100%;
+    padding-top: 20px;
+    /*padding-left: 230px;*/
+}
 
 /*End styling classes*/
 

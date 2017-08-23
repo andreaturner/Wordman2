@@ -3,18 +3,18 @@
     include ('../shared/header.html');
 ?>
 
-    <div class="books-page">
-        <div class="overlow-auto">
+    <div class="page-wdth100pct">
+        <div class="overflow-auto">
             
-            <div class="header-novel">
-                <a href="under-construction.php"><span>E</span>ssays & <span>C</span>ollections</a>
+            <div class="header-center-bold">
+                <span>E</span>ssays &#38; <span>C</span>ollections
             </div>
             <div class="series-pic-books-novels">
-                <a href="under-construction.php"><img src="../images/book-tree-enter-647x800.jpg" width="647" height="800" alt="Essays and Collections Image" /></a>
+                <img src="../images/book-tree-enter-647x800.jpg" width="647" height="800" alt="Essays and Collections Image" />
             </div>
             
         </div>  <!-- end overlow-auto div -->
-    </div> <!-- [end books-page div] -->       
+    </div> <!-- [end page-wdth100pct div] -->       
 <?php
     include ('../shared/footer.html');            
 ?>

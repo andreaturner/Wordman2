@@ -93,6 +93,10 @@ html, body {
     text-align: right;
 }
 
+.bottom-1pct {
+    margin-bottom: 1%;
+}
+
 /*End font and alignment classes*/
 
 /* Biography & Published Works page styles */
@@ -171,7 +175,7 @@ a:hover {
 
 /*Styling classes*/
 
-.books-page {
+.page-wdth100pct {
     width: 100%;
     padding-top: 20px;
     /*padding-left: 230px;*/

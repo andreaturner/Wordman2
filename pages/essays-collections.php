@@ -7,10 +7,10 @@
         <div class="overflow-auto">
             
             <div class="header-center-bold">
-                <span>E</span>ssays &#38; <span>C</span>ollections
+                <a href="shards.php"><span>E</span>ssays &#38; <span>C</span>ollections,</a>
             </div>
             <div class="center">
-                <img src="../images/book-tree-enter-647x800.jpg" width="647" height="800" alt="Essays and Collections Image" />
+                <a href="shards.php"><img src="../images/book-tree-enter-647x800.jpg" width="647" height="800" alt="Essays and Collections Image" /></a>
             </div>
             
         </div>  <!-- end overlow-auto div -->

@@ -29,7 +29,6 @@
             	Eric Koch
             </div> -->
 	
-
 		</div>  <!-- end overlow-auto div -->
     </div> <!-- [end page-wdth100pct div] -->       
 

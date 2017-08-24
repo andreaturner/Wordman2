@@ -7,30 +7,30 @@
 		<div class="overflow-auto">
 
 			<div class="header-center-bold">
-                <a href="songs.php">Songs&#44;</a> <a href="poems.php">Poems&#44;</a> &#38; <a href="thoughts.php">Thoughts</a> &#47; <a href="thoughts.php">Journals</a>
+                <a href="under-construction.php">Songs&#44;</a> <a href="under-construction.php">Poems&#44;</a> <a href="under-construction.php">&#38; Thoughts &#47; Journals</a>
             </div>
 
             <!-- start the columns of images for the three sections -->
             <div class="col-wdth30pct">
                 <div class="center">
-            	   <a href="songs.php"><img src="../images/songs-600x564.jpg" width="600" height="564" alt="Songs image" /></a>
+            	   <a href="under-construction.php"><img src="../images/songs-600x564.jpg" width="600" height="564" alt="Songs image" /></a>
             	   <div class="header-center-bold">
-            		  <a href="songs.php">Songs</a>
+            		  <a href="under-construction.php">Songs</a>
             	   </div>
                 </div>
             </div>
 
             <div class="col-wdth30pct">
                 <div class="center">
-            	   <a href="poems.php"><img src="../images/poems-600x454.jpg" width="600" height="454" alt="Poems image" /></a>
+            	   <a href="under-construction.php"><img src="../images/poems-600x454.jpg" width="600" height="454" alt="Poems image" /></a>
             	   <div class="header-center-bold">
-            		  <a href="poems.php">Poems</a>
+            		  <a href="under-construction.php">Poems</a>
             	   </div>
                 </div>
             </div>
 
             <div class="col-wdth30pct">
-            	<a href="thoughts.php"><img src="../images/thoughts-600x612.jpg" width="600" height="612" alt="Thoughts image" /></a>
+            	<a href="under-construction.php"><img src="../images/thoughts-600x612.jpg" width="600" height="612" alt="Thoughts image" /></a>
             </div>
             
 	

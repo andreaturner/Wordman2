@@ -13,7 +13,7 @@
             <!-- start the columns of images for the three sections -->
             <div class="col-wdth30pct">
                 <div class="center">
-            	   <a href="under-construction.php"><img src="../images/songs-600x564.jpg" width="600" height="564" alt="Songs image" /></a>
+            	   <a href="under-construction.php"><img src="../images/songs-600x564.jpg" width="600" height="564" onmouseover="this.src='../images/songs-enter-600x564.jpg'" onmouseout="this.src='../images/songs-600x564.jpg'" alt="Songs image" /></a>
             	   <div class="header-center-bold">
             		    <a href="under-construction.php">Songs</a>
             	   </div>

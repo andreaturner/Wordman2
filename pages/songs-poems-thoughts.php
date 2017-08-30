@@ -22,7 +22,7 @@
 
             <div class="col-wdth30pct">
                 <div class="center">
-            	   <a href="under-construction.php"><img src="../images/poems-600x454.jpg" width="600" height="454" alt="Poems image" /></a>
+            	   <a href="under-construction.php"><img src="../images/poems-600x454.jpg" width="600" height="454" onmouseover="this.src='../images/poems-enter-600x454.jpg'" onmouseout="this.src='../images/poems-600x454.jpg'"alt="Poems image" /></a>
             	   <div class="header-center-bold">
             		    <a href="under-construction.php">Poems</a>
             	   </div>
@@ -31,7 +31,7 @@
 
             <div class="col-wdth30pct">
                 <div class="center">
-            	    <a href="under-construction.php"><img src="../images/thoughts-600x612.jpg" width="600" height="612" alt="Thoughts image" /></a>
+            	    <a href="under-construction.php"><img src="../images/thoughts-600x612.jpg" width="600" height="612" onmouseover="this.src='../images/thoughts-enter-600x612.jpg'" onmouseout="this.src='../images/thoughts-600x612.jpg'"alt="Thoughts image" /></a>
                     <div class="header-center-bold">
                         <a href="under-construction.php">Thoughts &#47; Journals</a>
                     </div>

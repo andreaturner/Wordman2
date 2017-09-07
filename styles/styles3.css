@@ -110,7 +110,7 @@ html, body {
 .bio {
     font-family:'Lora', serif;
     font-size: large;
-    width: 58%;
+    width: 55%;
     text-align: left;
     float: left;
     padding-left: 2%;
@@ -121,7 +121,8 @@ html, body {
 .margin-bottom-1 {
     margin-bottom: 1%;
     float: left;
-    margin-top:  .4%;   
+    margin-top:  .4%;  
+    /*width: 50%; */
 }
 
 .margin-bottom-1 span {

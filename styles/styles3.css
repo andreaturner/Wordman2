@@ -178,12 +178,27 @@ a:hover {
     margin-top: 1.2%;
 }
 
+.small-header-esssay {
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 1%;
+}
+
 /*End header classes*/
 
 /*Styling classes*/
 
+.book-series-summary-wdth100pct {
+   font-family: Lora, serif;
+   overflow: auto;
+  /* margin-bottom: 1%*/;
+   width: 100%;
+}
+
 .col-wdth30pct {
-    width: 30%;
+    width:30%;
     float: left;
     margin-left: 2%;
     align-content: center;
@@ -232,6 +247,14 @@ a:hover {
     margin-bottom: .8%; 
 }
 
+.essay-series-summary-wdth100pct {
+   font-family: Lora, serif;
+   overflow: auto;
+   margin-top: 1%;
+   width: 100%;
+}
+
+
 .footer {
     font-size: medium;
     height: 1%;
@@ -264,8 +287,26 @@ a:hover {
 
 .page-wdth100pct {
     width: 100%;
-    padding-top: 20px;
+   /* padding-top: .1%*/;
     /*padding-left: 230px;*/
+}
+
+.essay-pic{
+    text-align: left;
+    padding-left: 1%;
+    float: left;
+}
+
+.essay-text-excerpt {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: center;
+    margin-right: 35%;
+   /* float: left;*/
+    overflow: auto;
+    overflow-y: hidden;
+    padding-top: 20px;
+    width: 44%;
 }
 
 /*End styling classes*/

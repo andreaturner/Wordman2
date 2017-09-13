@@ -309,6 +309,15 @@ a:hover {
     width: 44%;
 }
 
+.songs {
+    font-family:'Lora', serif;
+    font-size: large;
+    overflow: auto;
+    overflow-y: hidden;
+    padding-top: 20px;
+    width: 100%;
+}
+
 /*End styling classes*/
 
 /*Prologue classes*/

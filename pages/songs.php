@@ -22,9 +22,6 @@
         	<a href="touch-of-christmas.php">A Small Touch of Christmas</a>
         </div>
 
-
-
-
 	</div> <!-- End page-wdth100pct div -->
  
 <?php

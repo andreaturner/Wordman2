@@ -1,20 +1,20 @@
 <?php
-    $page_title = 'Songs';
+    $page_title = 'Poems';
     include ('../shared/header.html');
 ?>
 
 	<div class="page-wdth100pct">
 
 		<div class="header-center-bold">
-            <span>S</span>ongs
+            <span>P</span>oems
         </div>
 
         <div class="small-header-esssay">
-        	&#40;1&#44;140 Songs&#44;Music &#38; Lyrics&#41;
+        	&#40;160&#43; Poems&#41;
         </div>
 
         <div class="center">
-             <img src="../images/songs-500x470.jpg" width="500" height="470" alt="Songs Image" />
+             <img src="../images/poems-500x378.jpg" width="500" height="378" alt="Poems Image" />
         </div>
 
         <div class="small-header-esssay">

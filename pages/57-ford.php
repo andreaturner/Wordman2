@@ -13,7 +13,7 @@
              <span class="italic small">Music &#38; Lyrics Composed by</span>  <span class="vivaldi large">E</span><span class="vivaldi">ric</span><span class="vivaldi large">K</span><span class="vivaldi">och</span>
         </div>
 
-        <div class="songs center"">
+        <div class="songs center">
             <em><strong>[C]</em></strong> I still re&#45;<strong><em>[Em]</em></strong>&#45;member&#8230; Those <strong><em>[F]</em></strong> pretty blue <strong><em>[G]</em></strong> eyes<br>
             That soft southern accent&#8230; Those nights that we cried<br>
             <em><strong>[Em]</em></strong> High school by day but the night <em><strong>[F]</em></strong> held its own reward <em><strong>[Fm]</em></strong><br>
@@ -49,7 +49,7 @@
         </div>
 
         <div class="more">
-            Return to Songs page
+            <a href="songs.php">Return to Songs</a>
         </div>
 
         

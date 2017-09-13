@@ -18,12 +18,12 @@
         </div>
 
         <div class="center">
-             <img src="../images/poems-500x378.jpg" width="500" height="378" alt="Poems Image" />
+             <img src="../images/poems-600x454.jpg" width="600" height="454" alt="Poems Image" />
         </div>
 
         <div class="small-header-esssay">
-        	<a href="57-ford.php">/a><br>
-        	<a href="touch-of-christmas.php">A Small Touch of Christmas</a>
+        	<a href="under-construction.php">The Journey Ongoing<br>
+        	<a href="under-construction.php">Time</a>
         </div>
 
         <div class="more">

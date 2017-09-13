@@ -26,13 +26,13 @@
                 Each of the group are fighting their own demons which only seems to make the battle more favored toward Baushra&#39;s goal. On all three 
                 worlds they fight to discover what may be the answer, win or lose, in the final confrontation between gods, legends and their own tormented souls.
             </div>
-            </div>    
+        </div>    
                 <div class="read-more">
                     <a href="iftmus-series.php">Read more!</a>
                 </div>
             
-         <div class="book-series-summary-100">
-                <div class="small-header">
+        <div class="book-series-summary-100">
+            <div class="small-header">
                     <a href="alyssia-series.php">Old Alyssia</a>
                 </div>
                 <div class="series-pic">
@@ -42,13 +42,13 @@
                     Book I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large">&ldquo;To Hunt The Past&rdquo;</span><br>
                     Book II&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large">&ldquo;To Face The Future&rdquo;</span><br>
                     Book III&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large">&ldquo;To Accept The Present&rdquo;</span><br>
-                </div>
-                <div class="series-text-adventure">
-                    <span class="large">A</span>n old witch embraces her animals, nature and her few friends to combat the evil that the invading army of Myrsongot has wrought 
-                    upon them all. Even while trying to save them, she must battle the Ra-shing, the king&#39;s church and its soldiers the Rak-ta, a less palatable part of the
-                    world she thought she had left behind. 
-                </div>
             </div>
+            <div class="series-text-adventure">
+                <span class="large">A</span>n old witch embraces her animals, nature and her few friends to combat the evil that the invading army of Myrsongot has wrought 
+                upon them all. Even while trying to save them, she must battle the Ra-shing, the king&#39;s church and its soldiers the Rak-ta, a less palatable part of the
+                world she thought she had left behind. 
+            </div>
+        </div>
              <br><br>
             
                 

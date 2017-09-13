@@ -10,7 +10,7 @@
                 <a href="essays-books.php"><span>E</span>ssays &#38; <span>C</span>ollections</a>
             </div>
             <div class="center">
-                <a href="essays-books.php"><img src=".. /images/essays-collections-10A-880x644.jpg" width="880" height="644" alt="Essays and Collections Image" /></a>
+                <a href="essays-books.php"><img src="../images/essays-collections-10A-880x644.jpg" width="880" height="644" alt="Essays and Collections Image" /></a>
             </div>
             
         </div>  <!-- end overlow-auto div -->

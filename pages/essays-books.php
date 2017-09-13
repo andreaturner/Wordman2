@@ -17,13 +17,13 @@
 
             <!-- start of shards of a broken mirror -->
             <div class="series-pic-iftmus">
-                <a href="songs-poems-thoughts.php"><img src="../images/shards-of-a-broken-mirror-408x250.jpg" width="408" height="250" onmouseover="this.src='../images/shards-of-a-broken-mirror-enter-408x250.jpg'" onmouseout="this.src='../images/shards-of-a-broken-mirror-408x250.jpg'" alt="Shards of a broken mirror image" /></a>
+                <a href="songs-poems-thoughts.php"><img src="../images/shards-of-a-broken-mirror-408x250.jpg" width="408" height="250" alt="Shards of a broken mirror image" /></a>
             </div>
 
             <div class="series-text-adventure-list">
-                Section I&#32;&#32;&#32;&#32;&#32;&#32;&#32;<span class="large"><a href="under-construction.php">Songs</a></span><br>
-                Section II&#32;&#32;&#32;&#32;&#32;&#32;<span class="large"><a href="under-construction.php">Poems</a></span><br>
-                Section III&#32;&#32;&#32;&#32;&#32;<span class="large"><a href="under-construction.php">Thoughts&#32;/&#32;Journals</a></span><br>
+                Section I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large"><a href="under-construction.php">Songs</a></span><br>
+                Section II&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large"><a href="under-construction.php">Poems</a></span><br>
+                Section III&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large"><a href="under-construction.php">Thoughts&#32;/&#32;Journals</a></span><br>
                 
             </div>
 
@@ -45,7 +45,7 @@
             </div>
 
             <div class="series-pic-iftmus">
-                <a href="under-construction.php"><img src="../images/true-lies-408x333.jpg" width="408" height="333" onmouseover="this.src='../images/true-lies-408x333-enter.jpg'" onmouseout="this.src='../images/true-lies-408x333.jpg'" alt="True Lies image" /></a>
+                <a href="under-construction.php"><img src="../images/true-lies-408x333.jpg" width="408" height="333" alt="True Lies image" /></a>
             </div>
             <div class="essay-text-excerpt">
                 Whether trying to recall an event or cover the actions within&#44;<br>

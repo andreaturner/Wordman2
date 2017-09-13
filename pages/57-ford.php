@@ -42,13 +42,14 @@
             You got your family I got my music to sell<br>
             Still the <em><strong>[F&#35;m]</em></strong> sweetest song I could think of&#8230; or <em><strong>[G]</em></strong> ever re&#45;<em><strong>[Gaug]</em></strong>&#45;cord<br>
             Is making love in the back of a &#39;57 Ford<br>
-            
+        </div>
 
+        <div class="center small">
+            <em>&#169;&#44; 1986</em> <span class="vivaldi large">E</span><span class="vivaldi">ric</span><span class="vivaldi large">K</span><span class="vivaldi">och</span>&#32;/&#32; Wordman Enterprise&#32;/&#32;<em>All Rights Reserved</em>  
+        </div>
 
-
-
-
-
+        <div class="more">
+            Return to Songs page
         </div>
 
         

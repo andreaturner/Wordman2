@@ -281,6 +281,13 @@ a:hover {
     margin: .1% 0 0 0;
 }
 
+.more {
+    text-align: right;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    font-weight: 600;
+    margin-right: 10%;
+}
+
 .overflow-auto {
     overflow: auto;
 }

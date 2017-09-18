@@ -8,7 +8,7 @@ html (-webkit-text-size-adjust: none; ) {
 
 /*-----Apply a natural box layout model to all elements -----*/
 * ( -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; ) {
-    
+
 }
 
 /*tablet*/
@@ -199,7 +199,7 @@ a:hover {
     margin-top: 1.2%;
 }
 
-.small-header-esssay {
+.small-header-essay {
     font-size: x-large;
     font-weight: bold;
     text-align: center;

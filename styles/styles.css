@@ -65,6 +65,7 @@ dd span {
 }
 
 a {
+    color: ;
     text-decoration: none;
 }
 
@@ -326,7 +327,7 @@ a:hover {
     /*margin-bottom: 10px;*/
 }
 
-.small-header-essays {
+.small-header-esssays {
     font-size: x-large;
     font-weight: bold;
     text-align: left;

@@ -219,7 +219,8 @@ a:hover {
 }
 
 .col-wdth30pct {
-    width:30%;
+    width: 30%;
+    max-width: 30%;
     float: left;
     margin-left: 2%;
     align-content: center;

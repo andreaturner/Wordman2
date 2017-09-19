@@ -17,7 +17,7 @@
 
             <!-- start of shards of a broken mirror -->
             <div class="series-pic-iftmus">
-                <a href="songs-poems-thoughts.php"><img src="../images/shards-of-a-broken-mirror-408x250.jpg" width="408" height="250" alt="Shards of a broken mirror image" /></a>
+                <a href="songs-poems-thoughts.php"><img src="../images/F-shards-400x241.jpg" width="400" height="241" alt="Shards of a broken mirror image" /></a>
             </div>
 
             <div class="series-text-adventure-list">

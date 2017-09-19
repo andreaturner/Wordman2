@@ -23,7 +23,7 @@
         </div>
 
         <div class="small-header-essay">
-        	<a href="under-construction.php">The Journey Ongoing<br>
+        	<a href="journey.php">The Journey Ongoing<br>
         	<a href="under-construction.php">Time</a>
         </div>
 

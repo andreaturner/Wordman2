@@ -24,7 +24,7 @@
 
         <div class="small-header-essay">
         	<a href="journey.php">The Journey Ongoing<br>
-        	<a href="under-construction.php">Time</a>
+        	<a href="time.php">Time</a>
         </div>
 
         <div class="more">

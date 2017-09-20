@@ -347,6 +347,15 @@ a:hover {
     width: 100%;
 }
 
+.time {
+    font-family:'Lora', serif;
+    font-size: 60%;
+    overflow: auto;
+    overflow-y: hidden;
+    padding-top: 20px;
+    width: 100%;
+}
+
 /*End styling classes*/
 
 /*Prologue classes*/

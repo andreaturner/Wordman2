@@ -23,7 +23,7 @@
             <div class="series-text-adventure-list">
                 Section I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large"><a href="songs.php">Songs</a></span><br>
                 Section II&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large"><a href="poems.php">Poems</a></span><br>
-                Section III&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large"><a href="under-construction.php">Thoughts&#32;/&#32;Journals</a></span><br>
+                Section III&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large"><a href="thoughts.php">Thoughts&#32;/&#32;Journals</a></span><br>
                 
             </div>
 
